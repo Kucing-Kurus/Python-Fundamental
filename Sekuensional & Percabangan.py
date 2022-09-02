@@ -34,7 +34,6 @@ else:
 print(f"Budi pulang kerumah")
 print(f"Menyampaikannya kepada ibu")
 
-## Perulangan
-print("="*20,"Perulangan","="*20)
+
 
 
